@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  background-color: #101523;
+  color: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hover-blue:hover {
+  color: #0043ff !important; /* El azul Bootstrap */
+  transition: color 0.2s ease;
+}
