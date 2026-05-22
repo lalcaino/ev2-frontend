@@ -116,7 +116,7 @@ function Inicio() {
         {/* --- CONTENIDO DE BIENVENIDA --- */}
         <div className="container text-center mt-4 pt-4 pb-5">
           <h1 className="fw-bold display-4 mb-4 text-white">
-            Bienvenido a <span className="text-primary">Papulandia</span>
+            Bienvenido a <span className="text-primary">Papulandia2</span>
           </h1>
           <p className="text-white-50 fs-4 mb-5">
             Los mejores periféricos para e-sports.
